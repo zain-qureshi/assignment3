@@ -1,0 +1,230 @@
+
+div.divaccounts{
+    display: flex;
+    flex-wrap: wrap;
+    height: 130px;
+    margin-top: -6px;
+    background-color: rgb(42, 108, 196);
+    border: 1px solid rgb(89, 146, 253);
+   
+}
+div.div2{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1130px;
+    height: 5px;
+    background-color: white;
+    margin-top: 15px ;
+    border: 1px solid white;
+
+}
+li{
+    display: inline;
+    margin: 10px;
+    
+}
+ul{
+    margin-left: 20px;
+
+}
+p.qoute{
+    color: white;
+    margin-top: -70px;
+    margin-left: -51px;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p.donation{
+    color: white;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -10px;
+}
+button.ukdonor{
+    margin-top: -20px;
+    margin-left: 820px;
+    background-color: cornsilk;
+    color: darkgreen;
+    font-weight: bold;
+    padding: 6px;
+    border-radius: 5px;
+   
+}
+button.smit{
+    margin-top: 10px;
+    margin-left: 860px;
+    background-color: cornsilk;
+    color: darkgreen;
+    font-weight: bold;
+    padding: 6px;
+    border-radius: 5px;
+}
+button.donatenow{
+    margin-top: -15px;
+    background-color: cornsilk;
+    color: darkgreen;
+    font-weight: bold;
+    padding: 6px;
+    border-radius: 5px;
+   
+}
+img.saylanilogo{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+ul.second{
+    display: inline;
+    margin: 10px;
+ margin-left: 350px;
+ margin-top: -50px;
+}
+button.home{
+    background-color: rgb(42, 108, 196);
+    font-weight: bold;
+    color: rgb(230, 230, 230);
+    width: 80px;
+    border-radius: 35px  ;
+    padding: 10px;
+}
+
+.about:hover{
+    background-color: turquoise;
+    color: black;
+}
+
+
+.div3{
+
+    flex-wrap: wrap;
+    width: 1130px;
+    height: 45px;
+    background-color: darkblue;
+    color: white;
+    border: 1px solid darkblue;
+    
+}
+.favicon{
+     flex-wrap: wrap;
+     margin-left: 500px;
+}
+img.img{
+    margin-top: 120px;
+}
+h2{
+    display: inline;
+    
+}
+h2.intro{
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(42, 108, 196);
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+    font-size: 50px;
+    margin-left: 350px;
+}h2.duction{
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(24, 141, 8);
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+    font-size: 50px;
+    margin-left: -15px;
+
+}
+.div4{
+    width: 1125px;
+    max-width: 1125px;
+    border: 1px solid rgb(248, 244, 248)7, 247, 247);
+    
+}
+.p1,.p2,.p3,.p4{
+    font-size: 20px;
+    padding-left: 200px;
+    padding-right: 200px;
+    color: rgb(82, 75, 75);
+}
+.div5{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1128px;
+    justify-content: space-between;
+    background-color: blue;
+    height: 300px;
+}
+.divfood,.divmedical,.divfamily,.diveducation{
+    
+    
+    width: 200px;
+    margin-top: 60px;
+}
+.divfamily{
+    margin-left: 30px;
+}
+.divmedical{
+    margin-left: -20px;
+}
+.foodnumber,.familynumber,.doctornumber,.educationnumber{
+    color: white;
+  
+}
+button.top{
+    background-color: teal;
+    color: yellow;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 50px;
+    margin-left: 100px;
+    position: relative;
+}
+
+
+h2.we{
+    margin-top: -70px;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(42, 108, 196);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    margin-left: 320px;
+}h2.doing{
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(24, 141, 8);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    margin-left: 10px;
+}
+.div6{
+    flex-wrap: wrap;
+    background-color:rgb(252, 250, 250);
+    width: 1128px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+.onlinesadqah{
+    background-color: rgb(255, 255, 255);
+    width: 250px;
+    height: 200px;
+    border: 1px solid rgb(245, 245, 245);
+    box-shadow: 5px 5px 5px rgb(155, 155, 155);
+}.div7{
+    flex-wrap: wrap;
+    background-color:rgb(252, 250, 250);
+    width: 1128px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+.div8{
+    background-color:rgb(170, 65, 65);
+    width: 1128px;
+    height: 650px;
+}
+.missions{
+    margin-left: -400px;
+    color: blue;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
